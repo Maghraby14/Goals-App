@@ -8,8 +8,7 @@ The To-Do List App is a simple mobile application that allows users to create an
 - View the list of to-do items.
 - Remove items from the list by tapping on them.
 
-## Screenshots
-![Screen 1](assets/icon.png)
+
 
 ## Getting Started
 To get started with the To-Do List App, follow these steps:
