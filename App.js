@@ -56,7 +56,7 @@ setvisible(true);
     <>
 
    
-    <StatusBar style="inverted" />
+    <StatusBar style="light" />
    <View style={styles.appcontainer}>
     <Button title="Add new Goal" color="#a065ec" onPress={startapp} />
      <GoalInput onchangein={onChangeinput} onaddButton={onaddButton} value={goal} visible={modalvisible} notvisible={returntostart}/> 
