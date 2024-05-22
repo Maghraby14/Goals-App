@@ -31,7 +31,19 @@ The To-Do List App is built using the following technologies:
 
 - [React Native](https://reactnative.dev/): A JavaScript framework for building mobile applications.
 - [Expo](https://expo.dev/): A platform for building and deploying React Native apps.
+
   
+## Screenshots
+
+### Goals Screen
+![Goals Screen](assets/images/1.jpeg)
+
+### Enter Goal Screen
+![Enter Goal Screen](assets/images/2.jpeg)
+
+
+
+
 ## Installation
 1. Clone the repository from GitHub.
 2. Navigate to the project directory.
