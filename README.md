@@ -36,10 +36,10 @@ The To-Do List App is built using the following technologies:
 ## Screenshots
 
 ### Goals Screen
-![Goals Screen](assets/images/1.jpeg)
+<img src="assets/images/1.jpeg" alt='Goals Screen' width='100px' >
 
 ### Enter Goal Screen
-![Enter Goal Screen](assets/images/2.jpeg)
+<img src="assets/images/2.jpeg" alt='Enter Goal Screen' width='100px' >
 
 
 
